@@ -1,7 +1,7 @@
 ### Hello Everyone 👋
 
 <p>&emsp;&emsp;大家好，我是一名程序员。</p>
-<p>&emsp;&emsp;喜欢编程，喜欢计算机，励志成为一名优秀的程序员。</p>
+<p>&emsp;&emsp;喜欢编程，喜欢计算机，励志成为一名优秀的架构师。</p>
 <p>&emsp;&emsp;想利用自己的技术为这个社会做出一点贡献。</p>
 
 ### 正在阅读的书籍（技术类）
@@ -29,6 +29,9 @@
 - 《原则》
 - 《富爸爸穷爸爸》
 
+### 欢迎关注我的公众号
+
+![gong_zhong_hao.jpg](https://github.com/goodboy-y/goodboy-y/blob/main/assets/gong_zhong_hao.jpg?raw=true)
 
 <!--
 **goodboy-y/goodboy-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
