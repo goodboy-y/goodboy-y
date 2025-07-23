@@ -16,6 +16,7 @@
 2. 《财务自由第一课》
 3. 《毛选》-部分阅读
 4. 《乌合之众-大众心里研究》
+5. 《非暴力沟通》
 
 ------
 
@@ -68,13 +69,6 @@
 5. 《大话设计模式》
 6. 《黑客与画家》
 
-### 欢迎关注我的公众号
-
-上面都是电子书，有需要的可以关注我的公众号，后台留言
-
-![gong_zhong_hao.jpg](https://github.com/goodboy-y/goodboy-y/blob/main/assets/gong_zhong_hao.jpg?raw=true)
-
-<!--
 **goodboy-y/goodboy-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
