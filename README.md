@@ -2,7 +2,6 @@
 
 <p>&emsp;&emsp;大家好，我是一名程序员。</p>
 <p>&emsp;&emsp;喜欢编程，喜欢计算机，喜欢读书，励志成为一名优秀的架构师。</p>
-<p>&emsp;&emsp;想利用自己的技术为这个社会做出一点贡献。</p>
 
 ### 正在阅读的书籍
 - 《终身成长》
@@ -18,6 +17,7 @@
 5. 《非暴力沟通》
 6. 《像哲学家一样生活：斯多葛哲学的生活艺术》
 7. 《国富论》
+8. 
 
 ------
 
@@ -69,17 +69,3 @@
 4. 《深入理解java虚拟机》
 5. 《大话设计模式》
 6. 《黑客与画家》
-
-**goodboy-y/goodboy-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
