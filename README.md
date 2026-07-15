@@ -1,11 +1,5 @@
 # 👋 Hello Everyone
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=程序员;终身学习者;未来架构师&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
-</p>
-
----
-
 ### 🧑‍💻 关于我
 
 - 🖥️ 我是一名热爱编程、热爱计算机的程序员。
